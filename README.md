@@ -6,8 +6,9 @@ Showcases your portfolio, skills, and contact info in a modern design.
 ---
 
 ## 🌐 Live Demo
-🔗 [View Live Profile Page](https://your-demo-link.com)  
-*(Replace with your GitHub Pages or Netlify link)*
+
+🔗 [View Live Profile Page](https://rahul005y.github.io/profile/)  
+
 ---
 ## ✨ Features
 - Fully **Responsive Design** for all devices  
