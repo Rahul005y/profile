@@ -29,5 +29,5 @@ Showcases your portfolio, skills, and contact info in a modern design.
 ## 🏗️ How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+[git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>](https://github.com/Rahul005y/profile.git)
